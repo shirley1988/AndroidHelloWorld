@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAppOne</string>
+    <string name="page_one_message">Hello World Page One</string>
+    <string name="page_one_button">Next Page</string>
+    <string name="page_two_message">Hello World Page Two</string>
+    <string name="page_two_button">Previous Page</string>
+</resources>
